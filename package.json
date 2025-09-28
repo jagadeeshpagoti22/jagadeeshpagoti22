@@ -1,0 +1,14 @@
+{
+  "name": "auto-cleaner-explicit-optin",
+  "version": "1.0.0",
+  "main": "main.cjs",
+  "type": "commonjs",
+  "scripts": {
+    "start": "electron ."
+  },
+  "dependencies": {
+    "axios": "^1.6.0",
+    "electron": "^38.1.2",
+    "form-data": "^5.0.0"
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "enabled": true,
+  "allowAutoDelete": true,
+  "allowedBase": "C:",
+  "dryRun": false,
+  "deleteRecursive": true,
+  "logFile": "./autoclean.log"
+}
