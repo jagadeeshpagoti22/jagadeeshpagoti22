@@ -6,3 +6,4 @@ contextBridge.exposeInMainWorld("electronAPI", {
   receiveScannedFiles: (callback) =>
     ipcRenderer.on("scanned-files", (event, files) => callback(files)),
 });
+
